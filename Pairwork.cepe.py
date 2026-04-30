@@ -104,3 +104,5 @@ for name in students:
 print("Final Results")
 for name, score in students.items():
     print(f"{name}: {score} marks")
+
+print ("End of the quiz")
